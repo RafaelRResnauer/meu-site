@@ -1,0 +1,17 @@
+body{
+	background: #D3D3D3;
+}
+#title, .subtitle, .haiku_title{
+	color: blue;
+}
+
+.haiku_title{
+	font-size: 16px;
+	font-style: italic;
+}
+.haiku{
+	background: #FFF;
+	padding: 10px;
+	border: 3px solid #000;
+	margin: 10px;
+}
