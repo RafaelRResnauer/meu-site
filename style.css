@@ -1,6 +1,8 @@
 body{
 	background: #f7f7f7;
 	font-family: Verdana;
+	max-width: 900px;
+	margin: auto;
 }
 
 .profile_pic{
@@ -41,12 +43,15 @@ a{
 	margin: 0;
 	margin-bottom: 15px;
 	text-transform: capitalize;
+	font-size: 30px;
+	text-align: left;
 }
 
 .haiku_image{
 	margin-bottom: 15px;
 	border: 3px solid #505050;
 	border-radius: 5px;
+	width: 100%;
 }
 
 .contacts_list{
